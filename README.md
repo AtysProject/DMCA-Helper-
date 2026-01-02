@@ -32,5 +32,6 @@ The tool replaces manual appeal drafting with an automated workflow, featuring a
 https://github.com/user-attachments/assets/88a226f1-c505-420b-bb69-85b978465918
 
 
-❗❗❗           ❗❗❗
+❗❗❗     <img width="834" height="591" alt="image" src="https://github.com/user-attachments/assets/699ac7db-a33a-43f1-96af-5e697d0e4eb0" /> ❗❗❗
 
+      
