@@ -2,7 +2,7 @@
 
 ⚡PASSWORD: DMCA
 
-                                                                          DMCA Recovery Tool**
+                                                                          DMCA Recovery Tool
                                                                     Automated Appeal & Restoration System
 
 ⚡ Overview
