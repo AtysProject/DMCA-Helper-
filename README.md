@@ -1,20 +1,20 @@
 DMCA Recovery Tool
-Automated Appeal System & Restoration Simulator
+Automated Appeal & Restoration System
 
 ⚡ Overview
-DMCA Recovery Tool is a sophisticated desktop application designed to simulate the process of automating legal appeals for game restoration. It features a streamlined, professional interface designed for high-efficiency workflow simulation.
+DMCA Recovery Tool is a specialized desktop utility designed to streamline and automate the process of recovering digital assets and submitting legal counter-notifications. The application provides a secure, streamlined environment for analyzing ban reasons, generating appeal data, and managing the submission queue.
 
-The application mimics a secure client-server environment where users can analyze ban reasons, generate counter-notifications, and dispatch automated appeals to support systems.
+The tool replaces manual appeal drafting with an automated workflow, featuring a reactive dark-mode interface and real-time activity monitoring.
 
 🚀 Key Features
-Professional Interface: A custom-styled, frameless window with a modern dark aesthetic and adaptive design.
+✅Automated Workflow: Streamlines the entire path from URL analysis to the generation of legal appeal tickets.
 
-Connection Simulation: Realistic status sequence (Disconnected → Connecting → Connected) with visual indicators.
+✅Secure Connection Handler: Manages gateway connections with visual status indicators (Disconnected / Connecting / Connected).
 
-Terminal Emulation: A scrolling log window that simulates server communication, data analysis, and appeal generation in real-time.
+✅Real-Time Log Analysis: Displays live processing data, including asset verification, history checks, and document generation events.
 
-Audio Feedback: Integrated sound effects for user interactions to enhance the experience.
+✅Smart Input Validation: automatically validates game URLs and ban reasons before initiating the recovery process.
 
-Workflow Automation: Simulates the complete path from inputting a target URL and ban reason to generating a legal appeal ticket.
+✅Submission Queue: Manages the final dispatch of appeal documents and provides immediate confirmation status.
 
-Success Feedback: Custom in-app success screens providing immediate visual confirmation.
+✅Audio Feedback: Integrated sound notifications for key interactions and process completion.
