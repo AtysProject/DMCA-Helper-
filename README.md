@@ -7,6 +7,7 @@ DMCA Recovery Tool is a specialized desktop utility designed to streamline and a
 The tool replaces manual appeal drafting with an automated workflow, featuring a reactive dark-mode interface and real-time activity monitoring.
 
 🚀 Key Features
+
 ✅Automated Workflow: Streamlines the entire path from URL analysis to the generation of legal appeal tickets.
 
 ✅Secure Connection Handler: Manages gateway connections with visual status indicators (Disconnected / Connecting / Connected).
