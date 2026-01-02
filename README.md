@@ -2,8 +2,8 @@
 
 ⚡PASSWORD: DMCA
 
-DMCA Recovery Tool
-Automated Appeal & Restoration System
+                                                                          **DMCA Recovery Tool**
+                                                                    **Automated Appeal & Restoration System**
 
 ⚡ Overview
 DMCA Recovery Tool is a specialized desktop utility designed to streamline and automate the process of recovering digital assets and submitting legal counter-notifications. The application provides a secure, streamlined environment for analyzing ban reasons, generating appeal data, and managing the submission queue.
